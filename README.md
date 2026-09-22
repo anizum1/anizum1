@@ -3,5 +3,3 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="anizum1's GitHub profile" src="dark_mode.svg" />
 </picture>
-
-# anizum1-anizum1-
